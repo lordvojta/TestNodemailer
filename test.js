@@ -4,7 +4,7 @@ async function testEmailConnection() {
     const smtpHost = "smtp.address.com"; //add your actual SMTP server address
     const smtpPort = 587; //add your actual SMTP port
     const user = "support@example.cz"; //add your actual sender
-    const password = "Password"; //add sender's password
+    const password = "Password"; //add sender's password 
 
     try {
         const transporter = nodemailer.createTransport({
