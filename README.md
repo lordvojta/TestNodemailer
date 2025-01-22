@@ -1,1 +1,1 @@
-# Test email connection and send testemail with nodemailer
+# Test email connection and send test email with nodemailer
